@@ -8,6 +8,6 @@ code: https://github.com/liruiying1/GMOGH
 
 A copula-guided temporal dependency method for multitemporal hyperspectral images unmixing
 
-https://www.sciencedirect.com/science/article/abs/pii/S0031320325016346
+paper:https://www.sciencedirect.com/science/article/abs/pii/S0031320325016346
 
 code: https://github.com/liruiying1/Cod-TD
