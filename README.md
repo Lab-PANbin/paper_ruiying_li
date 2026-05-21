@@ -11,3 +11,10 @@
 **paper:https://www.sciencedirect.com/science/article/abs/pii/S0031320325016346**
 
 **code: https://github.com/liruiying1/Cod-TD**
+
+## Multitemporal latent dynamical framework for hyperspectral images unmixing
+
+**paper:https://www.sciencedirect.com/science/article/abs/pii/S0924271626002297**
+
+**code: https://github.com/liruiying1/MiLD**
+
