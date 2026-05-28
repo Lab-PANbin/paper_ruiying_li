@@ -18,3 +18,8 @@
 
 **code: https://github.com/liruiying1/MiLD**
 
+## Uncertainty Modeling for Domain Generalization in Cross-Scene Hyperspectral Image Classification
+
+**paper:https://ieeexplore.ieee.org/document/11534880**
+
+**code: https://github.com/lan667/UMDG/tree/main**
